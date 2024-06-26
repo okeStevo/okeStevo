@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oke Stephen</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate full-stack developer developer from Nigeria</h3>
 
 <img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" alt="">
 
