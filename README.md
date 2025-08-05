@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okestevo&label=Profile%20views&color=0e75b6&style=flat" alt="okestevo" /> </p>
 
-- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, next.js,**
+- 💬 Ask me about **React, next.js, node.js**
 
-- 📫 How to reach me **stephenoke2007@gmail.com**
+- 📫 How to reach me **stephenoke2007@gmail.com**, <a href="https://oke-puce.vercel.app/">My porfolio</a?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
