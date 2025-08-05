@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, next.js, node.js**
 
-- 📫 How to reach me **stephenoke2007@gmail.com**, <a href="https://oke-puce.vercel.app/">My porfolio</a?
+- 📫 How to reach me **stephenoke2007@gmail.com**, <a href="https://oke-puce.vercel.app/">My porfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
