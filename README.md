@@ -5,10 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okestevo&label=Profile%20views&color=0e75b6&style=flat" alt="okestevo" /> </p>
 
-
 - 💬 Ask me about **React, next.js, node.js**
 
-- 📫 How to reach me **stephenoke2007@gmail.com**, <a href="https://oke-puce.vercel.app/">My portfolio</a>
+- 📫 How to reach me **stephenoke2007@gmail.com** | <a href="https://oke-puce.vercel.app/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,8 +42,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okestevo&show_icons=true&locale=en&layout=compact" alt="okestevo" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okestevo&show_icons=true&locale=en" alt="okestevo" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okestevo&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="okestevo" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okestevo&" alt="okestevo" /></p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okestevo&show_icons=true&locale=en&bg_color=00000000" alt="okestevo" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okestevo&background=00000000" alt="okestevo" />
+</div>
